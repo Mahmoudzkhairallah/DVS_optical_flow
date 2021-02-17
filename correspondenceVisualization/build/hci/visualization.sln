@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flow_visualization", "flow_visualization.vcxproj", "{2AE6EAEE-E4CD-4C90-AE46-DC8106317565}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stereo_visualization", "stereo_visualization.vcxproj", "{07629545-2703-4EB1-BDF3-DF78B32D0211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE6EAEE-E4CD-4C90-AE46-DC8106317565}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AE6EAEE-E4CD-4C90-AE46-DC8106317565}.Debug|Win32.Build.0 = Debug|Win32
+		{2AE6EAEE-E4CD-4C90-AE46-DC8106317565}.Release|Win32.ActiveCfg = Release|Win32
+		{2AE6EAEE-E4CD-4C90-AE46-DC8106317565}.Release|Win32.Build.0 = Release|Win32
+		{07629545-2703-4EB1-BDF3-DF78B32D0211}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07629545-2703-4EB1-BDF3-DF78B32D0211}.Debug|Win32.Build.0 = Debug|Win32
+		{07629545-2703-4EB1-BDF3-DF78B32D0211}.Release|Win32.ActiveCfg = Release|Win32
+		{07629545-2703-4EB1-BDF3-DF78B32D0211}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
